@@ -18,5 +18,14 @@
     <ClCompile Include="..\..\hello_world\hello_world\NamespacesExample.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PointersReferencesPolymorphism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructorDestructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringConstMutable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
