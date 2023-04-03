@@ -27,5 +27,11 @@
     <ClCompile Include="StringConstMutable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TernaryOperator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImplicitExplicit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
