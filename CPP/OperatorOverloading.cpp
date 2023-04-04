@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 
 
@@ -34,3 +36,5 @@ int main()
 	
 
 }
+
+*/

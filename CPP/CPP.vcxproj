@@ -132,6 +132,7 @@
     <ClCompile Include="ImplicitExplicit.cpp" />
     <ClCompile Include="OperatorOverloading.cpp" />
     <ClCompile Include="PointersReferencesPolymorphism.cpp" />
+    <ClCompile Include="SmartPointers.cpp" />
     <ClCompile Include="StringConstMutable.cpp" />
     <ClCompile Include="TernaryOperator.cpp" />
   </ItemGroup>
